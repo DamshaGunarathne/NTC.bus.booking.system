@@ -1,2 +1,2 @@
-# NTC.bus.booking.system
-NTC.bus.booking.system
+# NTC_Booking_System
+NTC_Booking_System
